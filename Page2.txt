@@ -1,0 +1,28 @@
+﻿<html>
+<head> <title>เเนะนำสถานที่โรงเรียน</title></head>
+<body>
+<p> <center> <img src=".jpg"> </center>
+<p> <center> <font size="6" color="red">"แนะนำโรงเรียน"ท่าเรือนิตยานุกูล"</font> </center> </p>
+อาคารเรียน<br/>
+<center> <img src="N1.jpg"> </center>
+<center>อาคาร 1</center><br/>
+<center> <img src="N2.jpg"> </center>
+<center>อาคาร 2</center><br/>
+<center> <img src="N3.jpg"> </center>
+<center>อาคาร 3</center><br/>
+<center> <img src="N4.jpg"> </center>
+<center>อาคาร 4</center><br/>
+<center> <img src="N5.jpg"> </center>
+<center>อาคาร 5</center><br/>
+<center> <img src="N6.jpg"> </center>
+<center>อาคาร 6</center><br/>
+<center> <img src="N7.jpg"> </center>
+<center>อาคารเรียนพลานามัย</center><br/>
+<center> <img src="N8.jpg"> </center>
+<center>อาคารฝึกงานคหกรรม</center><br/>
+<center> <img src="N9.jpg"> </center>
+<center>อาคารฝึกงานอุตสาหกรรม</center><br/>
+<center> <img src="N10.jpg"> </center>
+<center>อาคารฝึกงานเกษตรกรรม</center><br/>
+</body>
+</html>
